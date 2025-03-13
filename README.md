@@ -38,8 +38,7 @@ Prerequisites
  Steps
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/CRUD.git
-   cd CRUD
+   git clone https://github.com/Harshu1412/CRUD.git
 2. Install dependencies:
    npm install
 3.Start the Expo development server:
